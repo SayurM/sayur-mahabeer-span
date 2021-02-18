@@ -1,0 +1,6 @@
+TeamA 1, TeamB 2
+TeamC 5, TeamD 3
+TeamE 89, TeamF 89
+TeamA 3, TeamB 2
+TeamC 5, TeamD 1
+TeamC 7, TeamD 2
